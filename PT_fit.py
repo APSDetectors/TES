@@ -1,5 +1,9 @@
 #This code runs the TES power v.s. bath temperature fitting, to find Tc, Gc and n.
 
+#this code is NOT written by daikang, but by Tim Madden.
+#just kidding
+
+
 import numpy as np
 import math
 import h5py
